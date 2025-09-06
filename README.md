@@ -93,13 +93,3 @@ src/
 - Минимальный JavaScript
 - CSS-анимации вместо JS
 
-## Браузерная поддержка
-
-- Chrome 90+
-- Firefox 88+
-- Safari 14+
-- Edge 90+
-
-## Лицензия
-
-MIT License
